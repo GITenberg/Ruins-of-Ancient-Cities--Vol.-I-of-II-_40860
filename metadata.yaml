@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40860'
     url: http://www.gutenberg.org/2009/agents/40860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40860#Ruins-of-Ancient-Cities--Vol.-I-of-II-
 gutenberg_issued: '2012-09-25'
 gutenberg_type: Text
 identifiers:
